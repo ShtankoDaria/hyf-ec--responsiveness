@@ -3,8 +3,20 @@
   <head>
   <meta charset="UTF-8">
     <title>Responsive example</title>
+    <link rel="stylesheet" href="./style.css">
+
   </head>
   <body>
-  <div></div>
+  <div class="navbar">
+  Navbar
+  </div>
+  <div class="main">
+  <aside class="aside">
+  <ul>
+  <li>Home</li>
+  <li>About</li>
+  <li>HomeContact</li>
+  </ul>
+  </div>
   </body>
 </html>
